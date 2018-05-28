@@ -1,4 +1,4 @@
-# namsor-java-client
+# swagger-java-client
 
 Namsor
 - API version: 1.1.0
@@ -38,9 +38,9 @@ Add this dependency to your project's POM:
 
 ```xml
 <dependency>
-  <groupId>com.namsor</groupId>
-  <artifactId>namsor-java-client</artifactId>
-  <version>1.1.0</version>
+  <groupId>io.swagger</groupId>
+  <artifactId>swagger-java-client</artifactId>
+  <version>1.0.0</version>
   <scope>compile</scope>
 </dependency>
 ```
@@ -50,7 +50,7 @@ Add this dependency to your project's POM:
 Add this dependency to your project's build file:
 
 ```groovy
-compile "com.namsor:namsor-java-client:1.1.0"
+compile "io.swagger:swagger-java-client:1.0.0"
 ```
 
 ### Others
@@ -63,7 +63,7 @@ mvn clean package
 
 Then manually install the following JARs:
 
-* `target/namsor-java-client-1.1.0.jar`
+* `target/swagger-java-client-1.0.0.jar`
 * `target/lib/*.jar`
 
 ## Getting Started
