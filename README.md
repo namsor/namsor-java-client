@@ -4,9 +4,9 @@ Namsor
 - API version: 1.1.0
   - Build date: 2018-05-28T09:53:22.959+02:00
 
-<h2>[NamSor](http://www.namsor.com) SDK infers Gender and Origin from international names</h2>  
+<h2>NamSor SDK infers Gender and Origin from international names</h2>  
 
-<p>NamSor specialized data mining software recognizes the <strong>gender</strong>, the <strong>linguistic or cultural origin of personal names</strong> in any alphabet / language, with fine grain and high accuracy.</p>  
+<p>[NamSor](http://www.namsor.com) specialized data mining software recognizes the <strong>gender</strong>, the <strong>linguistic or cultural origin of personal names</strong> in any alphabet / language, with fine grain and high accuracy.</p>  
 
 ## Requirements
 
